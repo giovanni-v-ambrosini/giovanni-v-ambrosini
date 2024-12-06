@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @giovanni-v-ambrosini
+- 💻 Sys Admin for Asta Fruttaltedo Srl
+- 👀 Developer at Crea Solution Srl
+- 🌱 I’m currently learning .NET and Angular
+- 📫 How to reach me: giovannivmabrosini@outlook.it
