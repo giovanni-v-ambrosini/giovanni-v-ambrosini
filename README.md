@@ -2,4 +2,4 @@
 - 💻 IT Manager for Asta Fruttaltedo Srl
 - 👀 Developer at Crea Solution Srl
 - 🌱 I’m currently learning .NET and Angular
-- 📫 How to reach me: giovannivmabrosini@outlook.it
+- 📫 How to reach me: giovannivambrosini@outlook.it
