@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @giovanni-v-ambrosini
-- 💻 IT Manager for Asta Fruttaltedo Srl
 - 👀 Developer at Crea Solution Srl
-- 🌱 I’m currently learning .NET and Angular
+- 💻 IT Manager for Asta Fruttaltedo Srl
 - 📫 How to reach me: giovannivambrosini@outlook.it
